@@ -1,0 +1,2 @@
+Derlerken þu prefixleri kullanýn :
+-lstdc++ -lcomdlg32
